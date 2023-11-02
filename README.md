@@ -2,7 +2,7 @@
 
 A small Deno script to update your Cloudflare DNS subdomain A-records dynamically.
 
-The script will fetch your public IP Adress from ipify.org and update the subdomain Record to point to that address.
+The script will fetch your public IP Address from ipify.org and update the subdomain Record to point to that address.
 
 This script is compatible with `deno compile` which will compile the script into a self-contained executable.
 
