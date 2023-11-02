@@ -16,8 +16,8 @@
 //    misrepresented as being the original software.
 // 3. This notice may not be removed or altered from any source distribution.
 
-const AUTH = "9FR_YfdfKzIDCueDroNct83FgLaOKzCcVsNJbpRD";
-const ZONE = "5b744dc64ee89ca77d7bc75e06507f72";
+const AUTH = "YOUR_AUTH_KEY"; // Bearer Token
+const ZONE = "YOUR_ZONE";
 const SUBDOMAIN = "login";
 
 const r = await fetch("https://api.ipify.org");
